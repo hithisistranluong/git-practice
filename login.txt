@@ -1,2 +1,6 @@
 console.log('some login features')
-Here are some text to cause a conflict Version 2
+<<<<<<< HEAD
+Here are some text I'm happy without conflicting
+=======
+Here are some text Version 1
+>>>>>>> 4f97ac7b2a69f610af3094124447519dd8069927
